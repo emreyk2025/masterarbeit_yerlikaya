@@ -18,7 +18,6 @@ An Overview of the FL Framework:
 - [Summary](#Summary)
 - [Repo](#Repo)
 - [Results](#Results)
-- [Structure](#structure)
 
 ## Summary
 
@@ -44,32 +43,7 @@ In order to reproduce the results the preprocessed datasets and jupyter notebook
 
 ## Results
 
-The figures for the results are presented in [Figures](Figures).
-
-## Structure
-
-.
-├── Figures/
-│   ├── FL_arc.png
-│   ├── FL_vs_Local_RMSE_Comparison.png
-│   └── ... (other result figures and plots)
-│
-├── Jupyter Notebooks/
-│   ├── EDA.ipynb
-│   └── Simulations/
-│       ├── Simulations_Centralized.ipynb
-│       └── Simulations_Including_new_variables.ipynb
-│
-├── Data/ (Example - not provided in repo)
-│   ├── Preprocessed_Files/
-│   │   ├── Centralized_Dataset.csv
-│   │   └── Scenarios/
-│   │       └── covid_response_weather_avg_neighbour_vaccination_testing/
-│   │           ├── Austria.csv
-│   │           ├── Germany.csv
-│   │           └── ... (data for other countries)
-│
-└── README.md                         
+The figures for the results are presented in [Figures](Figures).                
 
 
 
