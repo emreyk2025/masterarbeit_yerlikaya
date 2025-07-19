@@ -49,15 +49,25 @@ The figures for the results are presented in [Figures](Figures).
 ## Structure
 
 .
-├── Figures/                          # Contains all figures
+├── Figures/
 │   ├── FL_arc.png
-│   └── ... (other figures)
+│   ├── FL_vs_Local_RMSE_Comparison.png
+│   └── ... (other result figures and plots)
 │
-├── Jupyter Notebooks/                # Contains Jupyter notebooks for data exploration and simulations
-│   ├── EDA.ipynb                     # Exploratory Data Analysis
-│   └── Simulations/                  # Simulation experiments
+├── Jupyter Notebooks/
+│   ├── EDA.ipynb
+│   └── Simulations/
 │       ├── Simulations_Centralized.ipynb
 │       └── Simulations_Including_new_variables.ipynb
+│
+├── Data/ (Example - not provided in repo)
+│   ├── Preprocessed_Files/
+│   │   ├── Centralized_Dataset.csv
+│   │   └── Scenarios/
+│   │       └── covid_response_weather_avg_neighbour_vaccination_testing/
+│   │           ├── Austria.csv
+│   │           ├── Germany.csv
+│   │           └── ... (data for other countries)
 │
 └── README.md                         
 
