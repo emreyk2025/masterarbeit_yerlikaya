@@ -18,7 +18,7 @@ An Overview of the FL Framework:
 - [Summary](#Summary)
 - [Working with the Repo](#Working_with_the_Repo)
 - [Results](#Results)
-- [Methodology](#Project_structure)
+- [Project structure](#Project_structure)
 
 ## Summary
 
