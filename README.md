@@ -44,13 +44,8 @@ In order to reproduce the results the preprocessed datasets and jupyter notebook
 
 ## Results
 
-The figures for the results are presented in [Figures](Figures)
+The figures for the results are presented in [Figures](Figures).
 
 ## Structure
 
-Among others, the two main datasets that will be used in this study are:
 
-*   John Hopkins University - CSSE Covid 19 Daily Reports on daily number of cases, deaths, recoveries, and active cases.
-*   European Centre for Disease Prevention and Control Data on country response measures to COVID-19.
-
-In the FL architecture, each client node will use an `LSTM` model to produce forecasts given historical data on the epidemic, corresponding policy responses, weather conditions, etc. Here `LSTM` models are preferred for their ability to model long-term dependencies, and their proven success in forecasting Covid-19 pandemic trajectory in the literature (Yang et al., 2020).
