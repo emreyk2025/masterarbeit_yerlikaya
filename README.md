@@ -9,6 +9,8 @@ Github repository for the master thesis
 
 **1st Examiner:** Prof. Dr. Daniel Klapper
 
+An Overview of the FL Framework:
+
 ![FL Framework](Figures/FL_arc.png)
 
 ## Introduction
