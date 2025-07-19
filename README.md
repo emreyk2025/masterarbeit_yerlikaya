@@ -9,6 +9,8 @@ Github repository for the master thesis
 
 **1st Examiner:** Prof. Dr. Daniel Klapper
 
+![FL Framework](Figures/FL_arc.png)
+
 ## Introduction
 
 Since 2019, the outbreak of the COVID-19 pandemic has caused more than 7 million confirmed deaths and around 770 million confirmed cases worldwide (Mathieu et al., 2024). Policymakers and governments around the world have implemented various measures to curb the transmission of the virus, ranging from full and partial lockdowns and travel restrictions to vaccination campaigns. However, the effectiveness of these measures often relies on timely and coordinated implementation, a significant challenge during unexpected and novel epidemics where policy makers lack historical data and experience. The rapid spread of the epidemic often outpaces the ability of policymakers to come up with real-time, data-driven policies for an optimal response. Moreover, fragmented policies, privacy concerns, and protective privacy regulations further exacerbate the issue.
