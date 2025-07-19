@@ -16,9 +16,9 @@ An Overview of the FL Framework:
 ## Table of Contents
 
 - [Summary](#Summary)
-- [Working with the Repo](#Working_with_the_Repo)
+- [Working with the Repo](#Repo)
 - [Results](#Results)
-- [Project structure](#Project_structure)
+- [Project structure](#structure)
 
 ## Summary
 
