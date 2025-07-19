@@ -44,7 +44,7 @@ In order to reproduce the results the preprocessed datasets and jupyter notebook
 
 ## Results
 
-The figures for the results are presented in ![FL Framework](Figures/)
+The figures for the results are presented in [Figures](Figures)
 
 ## Structure
 
