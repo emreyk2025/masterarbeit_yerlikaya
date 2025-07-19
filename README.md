@@ -26,15 +26,25 @@ The Coronavirus pandemic (COVID-19) has become one of the most devastating healt
 
 ## Repo
 
-Several studies have confirmed that city DTs can make important contributions in enhanced situation assessment, decision making, coordination, and resource allocation during rapidly evolving disaster situations. For instance, in one of the studies, Fan et al. proposed a novel city DT framework with deep learning techniques and explained advantages in emergency response management (Fan et al., 2021).
+### Dependencies
 
-Our research proposal is inspired by the paper from (Pang et al., 2020), who developed a collaborative city digital twin model using federated learning to address the challenges of COVID-19 pandemic response. The authors used daily epidemic data (The COVID tracking project dataset) and state-level policy responses (The Coronavirus State Actions Dataset) in the United States to build city Digital Twins. In the proposed framework, each state was considered as a client node in the federated paradigm with its own local data. The findings suggest that federated city DTs perform much better than the non-federated approach, indicating that individual DTs benefit from collaboration and learn from each other.
+Python Version: 3.11.9
+pandas version: 2.2.2
+numpy version: 1.26.4
+keras version: 3.8.0
+json version: 2.0.9
+flwr (Flower) version: 1.18.0
+tensorflow version: 2.18.0
+matplotlib version: 3.9.0
+keras-tuner version: 1.4.7
+scikit-learn (sklearn) version: 1.5.0
+
+### Setup
+In order to reproduce the results the preprocessed datasets and jupyter notebooks for the simulations should be downloaded. Then Create an virtual environment and install dependencies. In order to produce the results for different simulations we have made slight changes in the datasets (including/excluding some features and countries). In the repository we have added only the notebook for the Experiment 1 (Scenario 1.5). The code for other experiments are quite similar to this one, only using different datasets for training. In addition we also have included the notebook used for hypothetical training with centralized dataset which should be used with centralized CSV file.
 
 ## Results
 
-This research aims to build on the pioneering work by Pang et al. and implement it in the European context. While Pang et al. focused on US states, this study implements a collaborative city DT framework where 30 individual countries in Europe will be considered as client nodes in the federated framework. Europe’s unique geopolitical context provides an interesting setting since it consists of sovereign countries with much more divergent national regulatory frameworks, healthcare infrastructure, and unique political arrangements such as the Schengen agreement.
-
-Moreover, in this study we would like to consider other important variables which might have an important effect on the severity of the epidemic such as weather conditions, vaccination/test rates, share of vulnerable (elderly) people in the population, average number of cases/deaths in neighboring countries, whether the country is in the Schengen Area, population concentration per km2, recovered/active cases and etc. To the best of our knowledge, these important variables were not included in previous studies.
+The figures for the results are presented in ![FL Framework](Figures/)
 
 ## Structure
 
