@@ -48,4 +48,18 @@ The figures for the results are presented in [Figures](Figures).
 
 ## Structure
 
+.
+├── Figures/                          # Contains all figures
+│   ├── FL_arc.png
+│   └── ... (other figures)
+│
+├── Jupyter Notebooks/                # Contains Jupyter notebooks for data exploration and simulations
+│   ├── EDA.ipynb                     # Exploratory Data Analysis
+│   └── Simulations/                  # Simulation experiments
+│       ├── Simulations_Centralized.ipynb
+│       └── Simulations_Including_new_variables.ipynb
+│
+└── README.md                         
+
+
 
