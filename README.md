@@ -3,8 +3,6 @@ Github repository for the master thesis
 
 # Federated Learning for Emergency Management: A Privacy-Preserving City Digital Twin Framework for Pandemic Response
 
-**Author:** Emrecan Yerlikaya
-
 **1st Examiner:** Prof. Dr. Steffan Lessmann
 
 **1st Examiner:** Prof. Dr. Daniel Klapper
