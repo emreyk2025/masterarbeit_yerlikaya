@@ -26,13 +26,21 @@ Python Version: 3.11.9
 pandas version: 2.2.2
 
 numpy version: 1.26.4
+
 keras version: 3.8.0
+
 json version: 2.0.9
+
 flwr (Flower) version: 1.18.0
+
 tensorflow version: 2.18.0
+
 matplotlib version: 3.9.0
+
 keras-tuner version: 1.4.7
+
 scikit-learn (sklearn) version: 1.5.0
+
 
 ### Setup
 In order to reproduce the results the preprocessed datasets and jupyter notebooks for the simulations should be downloaded. Then Create an virtual environment and install dependencies. In order to produce the results for different simulations we have made slight changes in the datasets (including/excluding some features and countries). In the repository we have added only the notebook for the Experiment 1 (Scenario 1.5). The code for other experiments are quite similar to this one, only using different datasets for training. In addition we also have included the notebook used for hypothetical training with centralized dataset which should be used with centralized CSV file.
