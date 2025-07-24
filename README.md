@@ -22,7 +22,9 @@ The Coronavirus pandemic (COVID-19) has become one of the most devastating healt
 ### Dependencies
 
 Python Version: 3.11.9
+
 pandas version: 2.2.2
+
 numpy version: 1.26.4
 keras version: 3.8.0
 json version: 2.0.9
