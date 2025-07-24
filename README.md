@@ -3,10 +3,6 @@ Github repository for the master thesis
 
 # Federated Learning for Emergency Management: A Privacy-Preserving City Digital Twin Framework for Pandemic Response
 
-**1st Examiner:** Prof. Dr. Steffan Lessmann
-
-**1st Examiner:** Prof. Dr. Daniel Klapper
-
 An Overview of the FL Framework:
 
 ![FL Framework](Figures/FL_arc.png)
